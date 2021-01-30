@@ -9,7 +9,7 @@
 ### Documents
 [Onshape Document](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)
 
-[Pre-Planing Document](Put link here)
+[Pre-Planing Document](https://docs.google.com/document/d/1r2iU-Si7RD9-BX3SUI-XrdDTprjM076UKu1Y0U7GHaY/edit?usp=sharing)
 
 
 ### Sketches
