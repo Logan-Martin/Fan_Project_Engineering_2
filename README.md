@@ -11,8 +11,7 @@
 [Pre-Planing Doc.](Jai Put link to our Pre-Plan document here, but don't remove the brackets)
 
 ### Sketches
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300">
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
 
 
 [Back to Table of Contents](#Table-of-Contents)
