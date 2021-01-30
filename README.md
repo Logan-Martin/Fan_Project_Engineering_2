@@ -8,6 +8,7 @@
 
 ### Documents
 [Onshape Document](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)
+[Pre-Planing Document](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)
 
 
 ### Sketches
