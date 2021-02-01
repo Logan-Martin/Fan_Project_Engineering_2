@@ -8,7 +8,8 @@
 * [Goals](#Goal)
 
 ### Goal
-``` My room gets really warm, So the goal of this project is to cool it down. We, Logan and Jai, will reach this goal by creating a mobile arduino powered fan.
+``` 
+My room gets really warm, So the goal of this project is to cool it down. We, Logan and Jai, will reach this goal by creating a mobile arduino powered fan.
 ```
 
 ### Documents
