@@ -2,10 +2,12 @@
 ## Logan & Jai
 ---
 ## Table of Contents
-* [Table of Contents](#Table-of-Contents)
+* [The Goal of this Project](#Whats the goal of this?)
 * [Links to Documents](#Documents)
 * [Sketches](#Sketches)
 * [Psuedo Code](#PsuedoCode)
+
+### Whats the goal of this?
 
 ### Documents
 [Onshape Document](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)
