@@ -11,7 +11,7 @@
 ``` 
 My room gets really warm, So the goal of this project is to cool it down. We, Logan and Jai, will reach this goal by creating a mobile arduino powered fan.
 ```
-[TOC](#Table-of-Contents)
+[TOC](#Table-of-Contents "TOC")
 
 ### Documents
 | Name of Doc. | Link for Doc.  |
@@ -19,12 +19,12 @@ My room gets really warm, So the goal of this project is to cool it down. We, Lo
 | Onshape Document   | [Here](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)     |
 | Pre-Planing Document  | [Here](https://docs.google.com/document/d/1r2iU-Si7RD9-BX3SUI-XrdDTprjM076UKu1Y0U7GHaY/edit?usp=sharing)      |
 
-[TOC](#Table-of-Contents)
+[TOC](#Table-of-Contents "TOC")
 
 ### Sketches
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
 
-[TOC](#Table-of-Contents)
+[TOC](#Table-of-Contents "TOC")
 ### PsuedoCode
 ```
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
@@ -60,4 +60,4 @@ void loop() {
 ```
 Code above from Arduino's code examples for the ultra sonic sensor.
 
-[Back to Table of Contents](#Table-of-Contents)
+[Back to Table of Contents](#Table-of-Contents "TOC")
