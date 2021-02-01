@@ -1,7 +1,7 @@
 # Fan-Project-Engineering-2
 ## Logan & Jai
 ---
-## Table-of-Contents TOC
+## Table of Contents
 * [Links to Documents](#Documents)
 * [Sketches](#Sketches)
 * [Psuedo Code](#PsuedoCode)
@@ -11,7 +11,7 @@
 ``` 
 My room gets really warm, So the goal of this project is to cool it down. We, Logan and Jai, will reach this goal by creating a mobile arduino powered fan.
 ```
-[TOC](#Table-of-Contents TOC)
+[TOC](#Table of Contents)
 
 ### Documents
 | Name of Doc. | Link for Doc.  |
