@@ -1,7 +1,7 @@
 # Fan-Project-Engineering-2
 ## Logan & Jai
 ---
-## Table of Contents "TOC"
+## Table-of-Contents "TOC"
 * [Links to Documents](#Documents)
 * [Sketches](#Sketches)
 * [Psuedo Code](#PsuedoCode)
