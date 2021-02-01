@@ -21,6 +21,7 @@ My room gets really warm, So the goal of this project is to cool it down. We, Lo
 ### Sketches
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
 
+[Back to T.O.C.](#Table-of-Contents)
 ### PsuedoCode
 ```
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
