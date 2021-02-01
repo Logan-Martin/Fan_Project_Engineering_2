@@ -2,10 +2,10 @@
 ## Logan & Jai
 ---
 ## Table of Contents
-* [The Goal of this Project](#The Goal)
 * [Links to Documents](#Documents)
 * [Sketches](#Sketches)
 * [Psuedo Code](#PsuedoCode)
+* [The Goal of this Project](#The Goal)
 
 ### The Goal
 
