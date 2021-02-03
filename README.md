@@ -55,6 +55,13 @@ void loop() {
   Serial.print("Distance: ");
   Serial.print(distance);
   Serial.println(" cm");
+  
+  
+  Short Explaination of what i need code to do:
+  When my hand gets close enough, then the sensor powers the fan ( motor ) on.
+  Then when my hand gets close again, the fan turns off.
+  
+  As of right now I don't know if I should have a power control feature.
 ```
 Code above from Arduino's code examples for the ultra sonic sensor.
 
