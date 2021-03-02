@@ -71,4 +71,5 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 | Logan     | On track, My side of Cad is basicly done and Coding is almost done. Although I do need to wire things and code for the ultra sonic sensor. |
 | Jai       | Has not yet stated if we are on track or not. Added The Arduino and Battery Holder to the Case. |
 
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoMotorWiring.PNG" width="300" height="300">
 [Back to Table of Contents](#Table-of-Contents)
