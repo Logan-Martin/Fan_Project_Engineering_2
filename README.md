@@ -69,6 +69,6 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 | Name      | Answer   |
 | :---      | ---:     |
 | Logan     | On track, My side of Cad is basicly done and Coding is almost done. Although I do need to wire things and code for the ultra sonic sensor. |
-| Jai       | ... |
+| Jai       | Has not yet stated if we are on track or not. Added The Arduino and Battery Holder to the Case. |
 
 [Back to Table of Contents](#Table-of-Contents)
