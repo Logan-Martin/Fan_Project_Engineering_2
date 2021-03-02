@@ -6,7 +6,7 @@
 * [Sketches](#Sketches)
 * [Psuedo Code](#PsuedoCode)
 * [Goals](#Goal)
-
+* [March 1st Notebook](#March1stNotebook)
 ### Goal
 ``` 
 My room gets really warm, So the goal of this project is to cool it down. Logan and I will reach this goal by creating a mobile arduino powered fan.
@@ -64,5 +64,11 @@ void loop() {
   As of right now I don't know if I should have a power control feature.
 ```
 Code above from Arduino's code examples for the ultra sonic sensor.
+
+### March1stNotebook
+| Name      | Answer   |
+| :---      | ---:     |
+| Logan     | On track, My side of Cad is basicly done and Coding is almost done. Although I do need to wire things and code for the ultra sonic sensor. |
+| Jai       | ... |
 
 [Back to Table of Contents](#Table-of-Contents)
