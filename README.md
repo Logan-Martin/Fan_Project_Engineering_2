@@ -9,7 +9,7 @@
 * [March 1st Notebook](#March1stNotebook)
 ### Goal
 ``` 
-My room gets really warm, So the goal of this project is to cool it down. Logan and I will reach this goal by creating a mobile arduino powered fan.
+The goal of this project is to make a mobile arduino powered fan to cool down rooms.
 ```
 
 
