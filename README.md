@@ -7,6 +7,7 @@
 * [Psuedo Code](#PsuedoCode)
 * [Goals](#Goal)
 * [March 1st Notebook](#March1stNotebook)
+* [March18th/19thNotebook](#March18th/19thNotebook)
 ### Goal
 ``` 
 The goal of this project is to make a mobile arduino powered fan to cool down rooms.
@@ -72,5 +73,11 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 | Jai       | On track, I do more of the assembly in onshape like working on the box and putting the different pieces in, we are still figuring out where we want to put different stuff but we are almost done. |
 
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoMotorWiring.PNG" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/WIN_20210302_10_36_49_Pro.jpg" width="300" height="300">
+
+### March18th/19thNotebook
+| Name      | Answer   |
+| :---      | ---:     |
+| Logan     |  |
+| Jai       |  |
 
 [Back to Table of Contents](#Table-of-Contents)
