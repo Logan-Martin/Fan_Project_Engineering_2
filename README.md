@@ -77,9 +77,9 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoMotorWiring.PNG" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/WIN_20210302_10_36_49_Pro.jpg" width="300" height="300">
 
 ### March19thNotebook
-| Name      | Answer   |
+| Question      | Answer   |
 | :---      | ---:     |
-| Both   |  |
+| "What major obstacle is keeping you from making better progress on your project?" | Coding is a massive issue that is holding me back.|
 
 ## Photos / Screen Shots
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
