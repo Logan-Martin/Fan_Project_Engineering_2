@@ -4,7 +4,6 @@
 ## Table of Contents
 * [Links to Documents](#Documents)
 * [Sketches-Old](#Sketches-Old)
-* [Sketches-New](#Sketches-New)
 * [Psuedo Code](#PsuedoCode)
 * [Goals](#Goal)
 * [March 1st Notebook](#March1stNotebook)
@@ -25,8 +24,6 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 ### Sketches-Old
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
 
-### Sketches-New
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/image.png" width="300" height="300"><img src="" width="300" height="300">
 
 
 ### PsuedoCode
@@ -83,5 +80,8 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 | Name      | Answer   |
 | :---      | ---:     |
 | Both   |  |
+
+## Photos / Screen Shots
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/image.png" width="300" height="300"><img src="" width="300" height="300">
 
 [Back to Table of Contents](#Table-of-Contents)
