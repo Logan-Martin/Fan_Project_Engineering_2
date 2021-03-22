@@ -82,6 +82,8 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 | Both   |  |
 
 ## Photos / Screen Shots
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/image.png" width="300" height="300"><img src="" width="300" height="300">
+
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"><img src="" width="300" height="300">
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(80).png" width="300" height="300"><img src="" width="300" height="300">
 
 [Back to Table of Contents](#Table-of-Contents)
