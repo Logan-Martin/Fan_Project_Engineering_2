@@ -79,7 +79,7 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 ### March19thNotebook
 | Question      | Answer   |
 | :---      | ---:     |
-| "What major obstacle is keeping you from making better progress on your project?" | Coding is a massive issue that is holding me back.|
+| "What major obstacle is keeping you from making better progress on your project?" | Coding things is a massive issue that is holding us back.|
 
 ## Photos / Screen Shots
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(80).png" width="300" height="300">
