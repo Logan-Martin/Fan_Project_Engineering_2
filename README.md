@@ -3,7 +3,8 @@
 ---
 ## Table of Contents
 * [Links to Documents](#Documents)
-* [Sketches](#Sketches)
+* [Sketches-Old](#Sketches-Old)
+* [Sketches-New](#Sketches-New)
 * [Psuedo Code](#PsuedoCode)
 * [Goals](#Goal)
 * [March 1st Notebook](#March1stNotebook)
@@ -21,8 +22,12 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 | Pre-Planing Document  | [Here](https://docs.google.com/document/d/1r2iU-Si7RD9-BX3SUI-XrdDTprjM076UKu1Y0U7GHaY/edit?usp=sharing)      |
 
 
-### Sketches
+### Sketches-Old
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoFanPitchv2.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(45).png" width="300" height="300">
+
+### Sketches-New
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/image.png" width="300" height="300"><img src="" width="300" height="300">
+
 
 ### PsuedoCode
 ```
@@ -77,7 +82,6 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 ### March19thNotebook
 | Name      | Answer   |
 | :---      | ---:     |
-| Logan     |  |
-| Jai       |  |
+| Both   |  |
 
 [Back to Table of Contents](#Table-of-Contents)
