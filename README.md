@@ -8,6 +8,7 @@
 * [Goals](#Goal)
 * [March 1st Notebook](#March1stNotebook)
 * [March19thNotebook](#March19thNotebook)
+* [May25thNotebook](#May25thNotebook)
 ### Goal
 ``` 
 The goal of this project is to make a mobile arduino powered fan to cool down rooms.
@@ -83,5 +84,12 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 
 ## Photos / Screen Shots
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(80).png" width="300" height="300">
+
+### May25thNotebook
+Tinker Cad Wiring as of right now:
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"> 
+
+Coding as of right now inside of the arduino editor:
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300">
 
 [Back to Table of Contents](#Table-of-Contents)
