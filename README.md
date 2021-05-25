@@ -87,9 +87,12 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 
 ### May25thNotebook
 Tinker Cad Wiring as of right now:
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"> 
+
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/TinkerCadUpdatedImageofWiringForFanProjectEnginering.png" width="300" height="300"> 
+
 
 Coding as of right now inside of the arduino editor:
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300">
+
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300">
 
 [Back to Table of Contents](#Table-of-Contents)
