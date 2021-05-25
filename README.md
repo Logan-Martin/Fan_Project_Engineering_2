@@ -88,10 +88,10 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 ### May25thNotebook
 1st image is the coding as of right,the 2nd image is the layed out box ready to be laser cut:
 
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300">
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/LayedOutBox.png" width="300" height="300">
 
-1st image is the full box, the 2nd image is the holder for the motor:
+1st image is the inside of the box, the 2nd image is the holder for the motor:
 
-<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300">
+<img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/InsideBox.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/MotorHolder.png" width="300" height="300">
 
 [Back to Table of Contents](#Table-of-Contents)
