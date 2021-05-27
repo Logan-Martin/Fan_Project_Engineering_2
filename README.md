@@ -30,7 +30,7 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 ### PsuedoCode
 
 <details>
-<summary>PsuedoCode Here>
+<summary>This is the Psuedo Code</summary>
 <br>
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
 #define trigPin 3 //attach pin D3 Arduino to pin Trig of HC-SR04
@@ -69,9 +69,8 @@ void loop() {
   Then when my hand gets close again, the fan turns off.
   
   As of right now I don't know if I should have a power control feature.
-  
-  Code above from Arduino's code examples for the ultra sonic sensor.
 </details>
+
 
 ### March1stNotebook
 | Name      | Answer   |
