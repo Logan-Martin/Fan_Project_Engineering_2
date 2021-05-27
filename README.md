@@ -94,4 +94,82 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/InsideBox.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/MotorHolder.png" width="300" height="300">
 
+```
+New Code:
+
+#include <NewPing.h>
+
+#define TRIGGER_PIN  12  // Arduino pin tied to trigger pin on the ultrasonic sensor.
+#define ECHO_PIN     11  // Arduino pin tied to echo pin on the ultrasonic sensor.
+#define MAX_DISTANCE 200 // Maximum distance we want to ping for (in centimeters). Maximum sensor distance is rated at 400-500cm.
+
+
+
+NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE); // NewPing setup of pins and maximum distance.
+
+
+int distance = 0;
+int motorVal = 0;
+
+int potPin = 0;         // the number of the input pin Pot Pin
+int motorPin = 9;       // the number of the output pin
+
+int state = HIGH;      // the current state of the output pin
+int reading;           // the current reading from the input pin
+int previous = LOW;    // the previous reading from the input pin
+int FanSpeed = 0;      // variable for motor speed
+
+// the follow variables are long's because the time, measured in miliseconds,
+// will quickly become a bigger number than can be stored in an int.
+long time = 0;         // the last time the output pin was toggled
+long debounce = 1000;   // the debounce time, increase if the output flickers
+
+void setup()
+{
+  Serial.begin(9600);
+
+
+  pinMode(potPin, INPUT);
+  pinMode(motorPin, OUTPUT);
+}
+
+void loop()
+{
+  delay(50);
+  distance = sonar.ping_cm();
+
+  if (distance != 0 && distance < 99) {
+
+    if (distance <= 30 && previous > 30 && millis() - time > debounce) { //if the value is correct, and the previous value was incorrent
+      //AND if its been at least 1 second since the last time I changed the state.
+      if (state == HIGH) {
+        state = LOW;
+      }
+      else {
+        state = HIGH;
+      }
+
+      time = millis();
+    }
+  }
+
+  if (state == HIGH ) {
+    FanSpeed = map(analogRead(potPin), 0, 1023, 0, 255);
+    analogWrite(motorPin, FanSpeed);
+  }
+  else {
+    FanSpeed = 0;
+    analogWrite(motorPin, FanSpeed);
+  }
+
+  digitalWrite(13, state);
+  Serial.print(state);
+  Serial.print("\t Ping: ");
+  Serial.print(distance); // Send ping, get distance in cm and print result (0 = outside set distance range)
+  Serial.print("\t");
+  Serial.println(FanSpeed);
+
+  previous = distance;
+}
+```
 [Back to Table of Contents](#Table-of-Contents)
