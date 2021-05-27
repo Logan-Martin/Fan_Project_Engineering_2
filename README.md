@@ -94,9 +94,10 @@ Code above from Arduino's code examples for the ultra sonic sensor.
 
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/InsideBox.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/MotorHolder.png" width="300" height="300">
 
-```
-New Code:
 
+<details>
+<summary>Coding as of 5/27/2021</summary>
+<br>
 #include <NewPing.h>
 
 #define TRIGGER_PIN  12  // Arduino pin tied to trigger pin on the ultrasonic sensor.
@@ -171,5 +172,6 @@ void loop()
 
   previous = distance;
 }
-```
+</details>
+
 [Back to Table of Contents](#Table-of-Contents)
