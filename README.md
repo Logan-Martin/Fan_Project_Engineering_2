@@ -2,6 +2,7 @@
 ## Logan & Jai
 ---
 ## Table of Contents
+* [List of Materials](#List-of-Materials)
 * [Links to Documents](#Documents)
 * [Sketches-Old](#Sketches-Old)
 * [Psuedo Code](#PsuedoCode)
@@ -11,6 +12,23 @@
 * [May25thNotebook](#May25thNotebook)
 * [June4thNotebook](#June4thNotebook)
 * [End Result](#End-Result)
+
+
+### List of Materials
+ - 1x Breadboard 
+ - 1x DC Motor
+ - 6x Volt battery
+ - 1x Ultra sonic sensor
+ - 1x Arduino uno board
+ - 1x 270 Ω Resistor
+ - 1x Diode
+ - 1x potentiometer
+ - 1x Transistor
+ - 8x Wires ( Male both sides )
+ - 4x Wires ( Female to Male )
+ - a bunch of time to make it.
+ 
+
 ### Goal
 ``` 
 The goal of this project is to make a mobile arduino powered fan to cool down rooms.
