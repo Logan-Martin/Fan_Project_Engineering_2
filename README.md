@@ -33,6 +33,8 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 <details>
 <summary>This is the Psuedo Code</summary>
 <br>
+  
+```c
 #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
 #define trigPin 3 //attach pin D3 Arduino to pin Trig of HC-SR04
 
@@ -63,7 +65,7 @@ void loop() {
   Serial.print("Distance: ");
   Serial.print(distance);
   Serial.println(" cm");
-  
+  ```
   
   Short Explaination of what i need code to do:
   When my hand gets close enough, then the sensor powers the fan ( motor ) on.
