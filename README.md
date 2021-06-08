@@ -9,6 +9,7 @@
 * [March 1st Notebook](#March1stNotebook)
 * [March19thNotebook](#March19thNotebook)
 * [May25thNotebook](#May25thNotebook)
+* [June 4](#June 4)
 ### Goal
 ``` 
 The goal of this project is to make a mobile arduino powered fan to cool down rooms.
