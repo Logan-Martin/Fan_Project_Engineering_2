@@ -28,10 +28,16 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 
 
 
-### PsuedoCode
-
+### Code
+ Short Explaination of what i need code to do:
+  When my hand gets close enough, then the sensor powers the fan ( motor ) on.
+  Then when my hand gets close again, the fan turns off.
+  
+  As of right now I don't know if I should have a power control feature.
 <details>
-<summary>This is the Psuedo Code</summary>
+  
+ 
+<summary>This is the Code</summary>
 <br>
   
 ```c
@@ -67,18 +73,14 @@ void loop() {
   Serial.println(" cm");
   ```
   
-  Short Explaination of what i need code to do:
-  When my hand gets close enough, then the sensor powers the fan ( motor ) on.
-  Then when my hand gets close again, the fan turns off.
-  
-  As of right now I don't know if I should have a power control feature.
+ 
 </details>
 
 
 ### March1stNotebook
 | Name      | Answer   |
 | :---      | ---:     |
-| Logan     | On track, My side of Cad is basicly done and Coding is almost done. Although I do need to wire things and code for the ultra sonic sensor. |
+| Logan     | On track, My side of Cad is basically done and Coding is almost done. Although I do need to wire things and code for the ultra sonic sensor. |
 | Jai       | On track, I do more of the assembly in onshape like working on the box and putting the different pieces in, we are still figuring out where we want to put different stuff but we are almost done. |
 
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoMotorWiring.PNG" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/WIN_20210302_10_36_49_Pro.jpg" width="300" height="300">
