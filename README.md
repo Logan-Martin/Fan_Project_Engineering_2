@@ -176,5 +176,9 @@ void loop()
   previous = distance;
 }
 </details>
-
+  
+ ### June 4
+  
+We have officially started fabricating and should be done by June 9th.
+  
 [Back to Table of Contents](#Table-of-Contents)
