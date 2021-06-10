@@ -29,11 +29,11 @@
  - 4x Wires ( Female to Male )
  - 1x Fanblade ( We used one from a drone, but there are better ones you could use.)
  
-  #Info for the fan blade:
+  ##Info for the fan blade:
   - I suggest finding some on google or Youtube, many downloadable fanblades exist. 
   - 3d printing them or laser cutting any fan blade will take time, so pre-made ones are easier to use.
  
- #Other things Needed:
+ ##Other things Needed:
  - Onshape or any cad website or software 
  - A Laser cutting machine ( you can use any material for it, but we used acrylic sheets )
  - A 3d printer, but only if you want to make the motor mound. ( We just taped the motor onto a wall )
