@@ -128,7 +128,17 @@ void loop() {
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/InsideBox.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/MotorHolder.png" width="300" height="300">
 
 
-<details>
+
+  
+ ### June4thNotebook
+  
+We have officially started fabricating and should be done by June 9th.
+ 
+ ### End-Result
+ 
+ <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/FanboxInRealLifeEngineeringCrap.jpg" width="300" height="300">
+ 
+ <details>
 <summary>Coding Here ( click the triangle bit ) </summary>
 <br>
 #include <NewPing.h>
@@ -206,13 +216,5 @@ void loop()
   previous = distance;
 }
 </details>
-  
- ### June4thNotebook
-  
-We have officially started fabricating and should be done by June 9th.
- 
- ### End-Result
- 
- <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/FanboxInRealLifeEngineeringCrap.jpg" width="300" height="300">
   
 [Back to Table of Contents](#Table-of-Contents)
