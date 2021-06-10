@@ -8,10 +8,10 @@
 * [Sketches-Old](#Sketches-Old)
 * [Goals](#Goal)
 * [What the Final Result Should be](#End-Result)
-* [March 1st Notebook](#March1stNotebook)
-* [March19thNotebook](#March19thNotebook)
-* [Work as of May25th ( This bit has the updated Coding )](#Work-as-of-May25th)
-* [June4thNotebook](#June4thNotebook)
+* [March 1st Notebook( Used for Documenting, Skip if you want )](#March1stNotebook)
+* [March19thNotebook( Used for Documenting, Skip if you want )](#March19thNotebook)
+* [Work as of May25th ( Used for Documenting, Skip if you want )](#Work-as-of-May25th)
+* [June4thNotebook( Used for Documenting, Skip if you want )](#June4thNotebook)
 
 
 
@@ -132,7 +132,7 @@ void loop() {
   
  ### June4thNotebook
   
-We have officially started fabricating and should be done by June 9th.
+We have officially started fabricating and should be done by June 9th. ( small notebook, but everything was kind of already done. )
  
  ### End-Result
  
