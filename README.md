@@ -62,7 +62,7 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 <details>
   
  
-<summary>This is the Code</summary>
+<summary>This is Old Code ( DO NOT USE FOR FAN TO WORK )</summary>
 <br>
   
 ```c
