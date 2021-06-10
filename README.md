@@ -222,5 +222,11 @@ void loop()
   previous = distance;
 }
 </details>
+ 
+ 
+ Final wiring Here:
+ 
+ 
+ <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/WiringForFanBox.png" width="500" height="500">
   
 [Back to Table of Contents](#Table-of-Contents)
