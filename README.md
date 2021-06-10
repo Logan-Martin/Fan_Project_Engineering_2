@@ -3,15 +3,16 @@
 ---
 ## Table of Contents
 * [List of Materials](#List-of-Materials)
-* [Links to Documents](#Documents)
-* [Sketches-Old](#Sketches-Old)
+* [Links to Our Documents](#Documents)
 * [Psuedo Code](#PsuedoCode)
+* [Sketches-Old](#Sketches-Old)
 * [Goals](#Goal)
+* [What the Final Result Should be](#End-Result)
 * [March 1st Notebook](#March1stNotebook)
 * [March19thNotebook](#March19thNotebook)
 * [May25thNotebook](#May25thNotebook)
 * [June4thNotebook](#June4thNotebook)
-* [End Result](#End-Result)
+
 
 
 ### List of Materials
@@ -26,13 +27,13 @@
  - 1x Transistor
  - 8x Wires ( Male both sides )
  - 4x Wires ( Female to Male )
- - a bunch of time to make it.
  
-
-### Goal
-``` 
-The goal of this project is to make a mobile arduino powered fan to cool down rooms.
-```
+ Other things Needed:
+ - Onshape or any cad website or software 
+ - A Laser cutting machine ( you can use any material for it, but we used acrylic sheets )
+ - A 3d printer, but only if you want to make the motor mound. ( We just taped the motor onto a wall )
+ - Time ( Took us a year or so, but could take you about an hour or two )
+ 
 
 
 ### Documents
@@ -40,6 +41,11 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
 | :---         |     ---:       |
 | Onshape Document   | [Here](https://cvilleschools.onshape.com/documents/6c10221f72a62c5827a6a0c3/w/3c881ee184980c73d02d8186/e/a389b126452617b6238eb00f)     |
 | Pre-Planing Document  | [Here](https://docs.google.com/document/d/1r2iU-Si7RD9-BX3SUI-XrdDTprjM076UKu1Y0U7GHaY/edit?usp=sharing)      |
+
+### Goal
+``` 
+The goal of this project is to make a mobile arduino powered fan to cool down rooms.
+```
 
 
 ### Sketches-Old
