@@ -10,7 +10,7 @@
 * [What the Final Result Should be](#End-Result)
 * [March 1st Notebook](#March1stNotebook)
 * [March19thNotebook](#March19thNotebook)
-* [May25thNotebook](#May25thNotebook)
+* [Work as of May25th ( This bit has the updated Coding )](#Work-as-of-May25th)
 * [June4thNotebook](#June4thNotebook)
 
 
@@ -118,7 +118,7 @@ void loop() {
 ## Photos / Screen Shots
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(79).png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/Screenshot%20(80).png" width="300" height="300">
 
-### May25thNotebook
+### Work as of May25th
 1st image is the coding as of right,the 2nd image is the layed out box ready to be laser cut:
 
 <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/ArduinoCodeFromAWhileAgoThatMightNotWorkYEahNICEFileNAme.png" width="300" height="300"> <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/LayedOutBox.png" width="300" height="300">
