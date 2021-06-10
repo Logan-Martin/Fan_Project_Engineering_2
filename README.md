@@ -129,7 +129,7 @@ void loop() {
 
 
 <details>
-<summary>Coding as of 5/27/2021</summary>
+<summary>Coding Here ( click the triangle bit ) </summary>
 <br>
 #include <NewPing.h>
 
