@@ -20,7 +20,7 @@
  - 1x DC Motor
  - 6x Volt battery
  - 1x Ultra sonic sensor
- - 1x Arduino uno board
+ - 1x Arduino uno board ( we used a Metro board )
  - 1x 270 Ω Resistor
  - 1x Diode
  - 1x potentiometer
@@ -32,6 +32,7 @@
  - Onshape or any cad website or software 
  - A Laser cutting machine ( you can use any material for it, but we used acrylic sheets )
  - A 3d printer, but only if you want to make the motor mound. ( We just taped the motor onto a wall )
+ - To run the code at the very bottom of this GitHub, You will need Arduino Create's Web editor.
  - Time ( Took us a year or so, but could take you about an hour or two )
  
 
