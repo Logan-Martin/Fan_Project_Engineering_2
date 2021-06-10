@@ -58,7 +58,7 @@ The goal of this project is to make a mobile arduino powered fan to cool down ro
   When my hand gets close enough, then the sensor powers the fan ( motor ) on.
   Then when my hand gets close again, the fan turns off.
   
-  As of right now I don't know if I should have a power control feature.
+  As of right now I don't know if I should have a power control feature. ( this feature has been added, but the box must be taken apart to change the fan speed )
 <details>
   
  
