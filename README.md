@@ -147,6 +147,8 @@ We have officially started fabricating and should be done by June 9th. ( small n
  <details>
 <summary>Coding Here ( click the triangle bit ) </summary>
 <br>
+
+```
 #include <NewPing.h>
 
 #define TRIGGER_PIN  12  // Arduino pin tied to trigger pin on the ultrasonic sensor.
@@ -221,6 +223,7 @@ void loop()
 
   previous = distance;
 }
+```
 </details>
  
  
