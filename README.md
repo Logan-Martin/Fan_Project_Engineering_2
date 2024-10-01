@@ -141,9 +141,7 @@ void loop() {
 We have officially started fabricating and should be done by June 9th. ( small notebook, but everything was kind of already done. )
  
  ### End-Result
- 
- <img src="https://github.com/Logan-Martin/Fan-Project-Engineering-2/blob/main/FanboxInRealLifeEngineeringCrap.jpg" width="300" height="300">
- 
+  
  <details>
 <summary>Coding Here ( click the triangle bit ) </summary>
 <br>
